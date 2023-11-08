@@ -8,14 +8,14 @@ body {
 
 header {
     background-color: blue;
-    color: white;
+    color: red;
     text-align: center;
     padding: 1rem;
 }
 
 nav {
     background-color: green;
-    color: white;
+    color: blue;
     padding: 0.5rem;
 }
 
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: green;
     text-decoration: none;
 }
 
